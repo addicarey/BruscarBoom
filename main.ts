@@ -10,3 +10,6 @@ input.onButtonPressed(Button.B, function () {
     Kitronik_Robotics_Board.motorOff(Kitronik_Robotics_Board.Motors.Motor4)
     basic.showIcon(IconNames.No)
 })
+basic.forever(function () {
+    music.play(music.builtinPlayableSoundEffect(soundExpression.twinkle), music.PlaybackMode.LoopingInBackground)
+})
