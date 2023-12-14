@@ -1,6 +1,10 @@
 
 > Open this page at [https://addicarey.github.io/bruscarboom/](https://addicarey.github.io/bruscarboom/)
 
+BruscarBoom: a robot designed to pick up litter
+
+You can view the FINAL code in the main.ts file
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
